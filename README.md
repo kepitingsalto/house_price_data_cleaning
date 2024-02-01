@@ -1,2 +1,4 @@
-"# house_price_data_cleaning" 
-"# house_price_data_cleaning" 
+Practice of data cleaning using python including:
+  - Handling missing value
+  - Casting data types
+  - One hot encoding
